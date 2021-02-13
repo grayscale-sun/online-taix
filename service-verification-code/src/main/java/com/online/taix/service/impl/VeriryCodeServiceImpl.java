@@ -16,7 +16,7 @@ public class VeriryCodeServiceImpl implements VerifyCodeService {
     RedisUtils redisUtils;
 
     @Override
-    public TaixResult<VerifyCode> generate(int identify, int phoneNumber) {
+    public TaixResult<VerifyCode> generate(int identify, String phoneNumber) {
         //生成验证码
         VerifyCode verifyCode = new VerifyCode(String.valueOf((int) (Math.random() * 1000000)));
         new Thread(new Runnable() {
@@ -30,7 +30,7 @@ public class VeriryCodeServiceImpl implements VerifyCodeService {
     }
 
     @Override
-    public TaixResult checkVerfiyCode(int identify, int phoneNumber,String verifyCode) {
+    public TaixResult checkVerfiyCode(int identify, String phoneNumber,String verifyCode) {
         TaixResult taixResult = new TaixResult();
         VerifyCode valueFromRedis = (VerifyCode)redisUtils.getValueFromRedis(String.valueOf(phoneNumber) + String.valueOf(identify));
         if(valueFromRedis.getVerifyCode().equals(verifyCode)){

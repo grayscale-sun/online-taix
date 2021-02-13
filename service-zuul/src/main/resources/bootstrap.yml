@@ -10,5 +10,5 @@ spring:
 zuul:
   routes:
     auth:
-      path: /service-verification-code/**
-      service-id: service-verification-code
+      path: /api-passenger/**
+      service-id: api-passenger

@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="api-passenger" />
-        <module name="service-sms" />
         <module name="service-zuul" />
+        <module name="service-sms" />
         <module name="internal-common" />
         <module name="service-verification-code" />
       </profile>

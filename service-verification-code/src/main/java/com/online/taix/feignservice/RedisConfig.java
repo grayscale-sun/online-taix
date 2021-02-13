@@ -1,4 +1,4 @@
-package com.online.taix.config;
+package com.online.taix.feignservice;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -19,7 +19,7 @@ public class VerificationController {
      */
     @GetMapping("/generate/{identify}/{phoneNumber}")
     public TaixResult generate(@PathVariable("identify") int identify,
-                               @PathVariable("phoneNumber") int phoneNumber){
+                               @PathVariable("phoneNumber") String phoneNumber){
         return veriryCodeService.generate(identify,phoneNumber);
     }
 
@@ -30,7 +30,7 @@ public class VerificationController {
      */
     @PostMapping("/check-verify-code/{identify}/{phoneNumber}/{verifyCode}")
     public TaixResult checkVerifyCode(@PathVariable("identify") int identify,
-                                      @PathVariable("phoneNumber") int phoneNumber,
+                                      @PathVariable("phoneNumber") String phoneNumber,
                                       @PathVariable("verifyCode") String verifyCode){
         return veriryCodeService.checkVerfiyCode(identify,phoneNumber,verifyCode);
     }

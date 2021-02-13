@@ -6,5 +6,5 @@ import com.online.taix.dto.TaixResult;
 public interface LoginService {
     TaixResult getVarifyCode(String phonenum);
 
-    String login(LoginParam loginParam);
+    TaixResult login(LoginParam loginParam);
 }

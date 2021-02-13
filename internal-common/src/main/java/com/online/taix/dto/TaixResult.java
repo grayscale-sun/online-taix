@@ -16,11 +16,33 @@ public class TaixResult<T> implements Serializable {
 
     }
 
-    public static TaixResult success(VerifyCode verifyCode) {
+    public static TaixResult verifySuccess(VerifyCode verifyCode) {
         TaixResult taixResult = new TaixResult();
         taixResult.setCode(0);
         taixResult.setMessage("获取验证码成功");
         taixResult.setData(verifyCode);
+        return taixResult;
+    }
+
+    public static TaixResult success(String message) {
+        TaixResult taixResult = new TaixResult();
+        taixResult.setCode(0);
+        taixResult.setMessage(message);
+        return taixResult;
+    }
+
+    public static <T> TaixResult success(String message,T data) {
+        TaixResult taixResult = new TaixResult();
+        taixResult.setCode(0);
+        taixResult.setMessage(message);
+        taixResult.setData(data);
+        return taixResult;
+    }
+
+    public static TaixResult failure(String message) {
+        TaixResult taixResult = new TaixResult();
+        taixResult.setCode(1);
+        taixResult.setMessage(message);
         return taixResult;
     }
 

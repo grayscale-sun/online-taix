@@ -19,7 +19,7 @@ public class TaixAdminController {
     }
 
     @PostMapping("/login")
-    public String login(@RequestBody LoginParam loginParam){
+    public TaixResult login(@RequestBody LoginParam loginParam){
         return loginService.login(loginParam);
     }
 }

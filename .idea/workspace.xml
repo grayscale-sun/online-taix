@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9995454a-2570-4b2b-8562-8c406261fc3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/LoginService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/impl/LoginServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/internal-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/dto/TaixResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/dto/TaixResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal-common/target/classes/com/online/taix/dto/TaixResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/internal-common/target/classes/com/online/taix/dto/TaixResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-sms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-sms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-sms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-sms/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-sms/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-sms/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verification-code/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-verification-code/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/VerificationCodeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/VerificationCodeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/feignservice/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/service/impl/VeriryCodeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/service/impl/VeriryCodeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verification-code/target/classes/com/online/taix/VerificationCodeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-verification-code/target/classes/com/online/taix/VerificationCodeApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verification-code/target/classes/com/online/taix/service/impl/VeriryCodeServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-verification-code/target/classes/com/online/taix/service/impl/VeriryCodeServiceImpl$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-verification-code/target/classes/com/online/taix/service/impl/VeriryCodeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-verification-code/target/classes/com/online/taix/service/impl/VeriryCodeServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/feignservice/ZuulConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="9995454a-2570-4b2b-8562-8c406261fc3c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/internal-common/target/" />
@@ -41,43 +19,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/impl/LoginServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/utils/TokenUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api-passenger/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -245,53 +187,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="api-passenger" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="internal-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="internal-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="internal-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="internal-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="internal-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -459,7 +355,7 @@
       <workItem from="1613124512022" duration="3202000" />
       <workItem from="1613128473099" duration="6978000" />
       <workItem from="1613186621166" duration="8360000" />
-      <workItem from="1613199384976" duration="9087000" />
+      <workItem from="1613199384976" duration="9341000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613146304253</created>
@@ -482,17 +378,23 @@
       <option name="project" value="LOCAL" />
       <updated>1613200514439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2.13.03 增加smsservice服务，增加token生成，下一次提交:网关token鉴权，补充业务功能。">
+      <created>1613218740481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613218740481</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42520000" />
+    <option name="totallyTimeSpent" value="42774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49750623" visible="true" weight="0.30597016" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49750623" visible="true" weight="0.30597016" />
       <window_info id="Structure" order="1" sideWeight="0.50249374" side_tool="true" weight="0.16471216" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -517,7 +419,7 @@
       <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.3861607" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32924107" />
       <window_info anchor="bottom" id="Tail" order="16" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.0859375" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.2611607" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -539,7 +441,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="2.13.01增加feign,mybatis,druid" />
     <MESSAGE value="2.13.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.13.02" />
+    <MESSAGE value="2.13.03 增加smsservice服务，增加token生成，下一次提交:网关token鉴权，补充业务功能。" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.13.03 增加smsservice服务，增加token生成，下一次提交:网关token鉴权，补充业务功能。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/NotNull.java">
@@ -957,13 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api-passenger/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/impl/LoginServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -978,11 +874,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/utils/TokenUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
+        <state relative-caret-position="150">
           <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-passenger/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
         </state>
       </provider>
     </entry>

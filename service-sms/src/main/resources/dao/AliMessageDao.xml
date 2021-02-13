@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.online.taix.dao.AliMessageDao">
+    <resultMap id="AliMessageTemplate" type="com.online.taix.dto.AliMessageTemplate">
+        <id column="template_id" property="templateId"></id>
+        <result column="template_message" property="message"></result>
+    </resultMap>
+    <select id="getTemplate" resultMap="AliMessageTemplate" parameterType="Integer">
+        select at.template_id,at.template_message from ali_template at where at.template_id = #{templateid}
+    </select>
+</mapper>

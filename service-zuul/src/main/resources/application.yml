@@ -1,3 +1,7 @@
 server:
   port: 8003
-
+jwt:
+  tokenHeader: Authorization #JWT存储的请求头
+  secret: online-taix-secret #JWT加解密使用的密钥
+  expiration: 3600 #604800 #JWT的超期限时间(60*60*24*7)
+  tokenHead: 'Bearer' #JWT负载中拿到开头

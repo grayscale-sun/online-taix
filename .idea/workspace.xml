@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9995454a-2570-4b2b-8562-8c406261fc3c" name="Default Changelist" comment="" />
+    <list default="true" id="9995454a-2570-4b2b-8562-8c406261fc3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/feignservice/ZuulConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-zuul/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/target/classes/application.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/internal-common/target/" />
@@ -19,7 +28,88 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/FilterLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="185" selection-start-line="185" selection-end-line="185" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-passenger/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-zuul/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/utils/TokenUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,16 +145,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/service-sms/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/service-sms/src/main/java/com/online/taix/ServiceSmsApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/util/RedisUtils.java" />
         <option value="$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/serviceverify/VerifyCode.java" />
-        <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/ServiceZuulApplication.java" />
-        <option value="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/dto/LoginParam.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/LoginServiceImpl.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/config/feginConfig.java" />
@@ -74,13 +161,11 @@
         <option value="$PROJECT_DIR$/service-zuul/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/service/VerifyCodeService.java" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/controller/VerificationController.java" />
-        <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/dao/TaixUserDao.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/dto/UserParam.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/resources/dao/TaixUserDao.xml" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/feignservice/VerifyCodeFegin.java" />
-        <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/LoginService.java" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/feignservice/RedisConfig.java" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/config/RedisConfig.java" />
@@ -98,12 +183,19 @@
         <option value="$PROJECT_DIR$/service-sms/src/main/java/com/online/taix/service/SendMessageService.java" />
         <option value="$PROJECT_DIR$/service-sms/src/main/resources/dao/AliMessageDao.xml" />
         <option value="$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/dto/TaixResult.java" />
-        <option value="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/utils/TokenUtil.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/impl/LoginServiceImpl.java" />
         <option value="$PROJECT_DIR$/internal-common/pom.xml" />
         <option value="$PROJECT_DIR$/api-passenger/pom.xml" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/utils/TokenUtil.java" />
+        <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/ZuulConfig.java" />
+        <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java" />
+        <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/utils/TokenUtil.java" />
+        <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java" />
+        <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" />
       </list>
     </option>
   </component>
@@ -124,8 +216,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-76" />
-    <option name="y" value="410" />
+    <option name="x" value="94" />
+    <option name="y" value="62" />
     <option name="width" value="1804" />
     <option name="height" value="937" />
   </component>
@@ -137,6 +229,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,19 +280,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="taix" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
+              <item name="api-passenger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="taix" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
+              <item name="api-passenger" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
-    <property name="MyBatisLogPluginindexNum" value="13" />
+    <property name="MyBatisLogPluginindexNum" value="17" />
     <property name="MyBatisLogPluginparameters" value="Parameters:" />
     <property name="MyBatisLogPluginpreparing" value="Preparing:" />
     <property name="MyBatisLogPluginrunning" value="true" />
@@ -226,17 +336,17 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.online.taix.service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.online.taix.utils" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\online-taix\service-zuul\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\online-taix\service-verification-code\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\online-taix\service-sms\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\online-taix\internal-common\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.online.taix.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.online.taix.service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -333,9 +443,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ApiPassengerApplication" />
+        <item itemvalue="Spring Boot.ServiceZuulApplication" />
         <item itemvalue="Spring Boot.ServiceSmsApplication" />
         <item itemvalue="Spring Boot.VerificationCodeApplication" />
-        <item itemvalue="Spring Boot.ServiceZuulApplication" />
         <item itemvalue="Application.VeriryCodeServiceImpl" />
       </list>
     </recent_temporary>
@@ -355,7 +465,8 @@
       <workItem from="1613124512022" duration="3202000" />
       <workItem from="1613128473099" duration="6978000" />
       <workItem from="1613186621166" duration="8360000" />
-      <workItem from="1613199384976" duration="9341000" />
+      <workItem from="1613199384976" duration="9535000" />
+      <workItem from="1613225074469" duration="2894000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613146304253</created>
@@ -385,17 +496,25 @@
       <option name="project" value="LOCAL" />
       <updated>1613218740481</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2.13.03 增加smsservice服务，增加token生成，下一次提交:网关token鉴权，补充业务功能。">
+      <created>1613218923675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613218923675</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42774000" />
+    <option name="totallyTimeSpent" value="45862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49750623" visible="true" weight="0.30597016" />
-      <window_info id="Structure" order="1" sideWeight="0.50249374" side_tool="true" weight="0.16471216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49625936" visible="true" weight="0.30916846" />
+      <window_info id="Structure" order="1" sideWeight="0.50374067" side_tool="true" weight="0.30916846" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -419,7 +538,7 @@
       <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.3861607" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32924107" />
       <window_info anchor="bottom" id="Tail" order="16" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.2611607" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.38058037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,87 +564,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2.13.03 增加smsservice服务，增加token生成，下一次提交:网关token鉴权，补充业务功能。" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/NotNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-dependencies/2.1.2.RELEASE/spring-cloud-alibaba-dependencies-2.1.2.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="118" column="33" selection-start-line="118" selection-start-column="29" selection-end-line="118" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/ServiceZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-verification-code/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="926">
-          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/feignservice/ZuulConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/config/MybatisConfig.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.2/mybatis-3.5.2.jar!/org/apache/ibatis/annotations/Mapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/dto/UserParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/dao/TaixUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -749,16 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/service/LoginService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -770,13 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="565">
           <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api-passenger/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -842,17 +863,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/utils/TokenUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/utils/TokenUtil.java" />
     <entry file="file://$PROJECT_DIR$/internal-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
@@ -882,10 +893,128 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/ServiceZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/ZuulFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/IZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/ZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api-passenger/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="354">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/FilterLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-passenger/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/utils/TokenUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -22,4 +22,5 @@ public class TaixAdminController {
     public TaixResult login(@RequestBody LoginParam loginParam){
         return loginService.login(loginParam);
     }
+
 }

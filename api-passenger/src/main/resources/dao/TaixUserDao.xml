@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.online.taix.dao.TaixUserDao">
+    <select id="findByUserName" resultType="com.online.taix.dto.UserParam" parameterType="String">
+        select su.user_id,su.user_name,su.password,su.email from sys_user su where su.user_name = #{username}
+    </select>
+</mapper>

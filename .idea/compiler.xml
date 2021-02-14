@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="service-verification-code" />
         <module name="api-passenger" />
         <module name="service-zuul" />
-        <module name="service-sms" />
         <module name="internal-common" />
-        <module name="service-verification-code" />
+        <module name="service-sms" />
+        <module name="valuation-service" />
       </profile>
     </annotationProcessing>
   </component>
@@ -21,6 +22,7 @@
       <module name="service-sms" options="-parameters" />
       <module name="service-verification-code" options="-parameters" />
       <module name="service-zuul" options="-parameters" />
+      <module name="valuation-service" options="-parameters" />
     </option>
   </component>
 </project>

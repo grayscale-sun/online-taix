@@ -15,6 +15,7 @@
         <module>service-sms</module>
         <module>service-verification-code</module>
         <module>service-zuul</module>
+        <module>valuation-service</module>
     </modules>
 
     <properties>

@@ -3,10 +3,12 @@ package com.online.taix.service.impl;
 import com.online.taix.service.CompletableFutureService;
 import org.springframework.scheduling.annotation.AsyncResult;
 
+import java.util.TimerTask;
 import java.util.concurrent.CompletableFuture;
 
 public class CompletableFutureServiceImpl implements CompletableFutureService {
     public static void main(String[] args) {
+
         CompletableFuture<Integer> completable = new AsyncResult<>(1).completable();
         CompletableFuture<Integer> Future1 = CompletableFuture.supplyAsync(CompletableFutureServiceImpl::sum1);
         CompletableFuture<Integer> Future2 = CompletableFuture.supplyAsync(CompletableFutureServiceImpl::sum2);

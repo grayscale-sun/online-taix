@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/impl/CompletableFutureServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/impl/CompletableFutureServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,6 +17,7 @@
     <ignored path="$PROJECT_DIR$/service-verification-code/target/" />
     <ignored path="$PROJECT_DIR$/service-zuul/target/" />
     <ignored path="$PROJECT_DIR$/valuation-service/target/" />
+    <ignored path="$PROJECT_DIR$/dispatch-service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,38 +30,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/impl/CompletableFutureServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/dispatch-service/src/main/java/com/online/taix/DispatchServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="315">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/ValuationServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/controller/TestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="350">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -100,12 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/config/feginConfig.java" />
-        <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/ApiPassengerApplication.java" />
-        <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/feginservice/feginConfig.java" />
-        <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/feignservice/feginConfig.java" />
-        <option value="$PROJECT_DIR$/service-zuul/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/service/VerifyCodeService.java" />
         <option value="$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/controller/VerificationController.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/dao/TaixUserDao.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/dto/UserParam.java" />
@@ -142,31 +127,27 @@
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/utils/TokenUtil.java" />
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/impl/TestServiceImpl.java" />
-        <option value="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/impl/CompletableFutureServiceImpl.java" />
         <option value="$PROJECT_DIR$/valuation-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/valuation-service/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/task/AsyncTask.java" />
         <option value="$PROJECT_DIR$/valuation-service/pom.xml" />
         <option value="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/controller/TestController.java" />
         <option value="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/ValuationServiceApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/dto/LombokDto.java" />
+        <option value="$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/impl/CompletableFutureServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dispatch-service/pom.xml" />
+        <option value="$PROJECT_DIR$/dispatch-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/dispatch-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/dispatch-service/src/main/java/com/online/taix/DispatchServiceApplication.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="valuation-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="valuation-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -193,76 +174,6 @@
               <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
               <item name="online-taix" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-sms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="valuation-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -282,7 +193,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/valuation-service/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dispatch-service/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -298,18 +209,18 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.online.taix.service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.online.taix.utils" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\online-taix\dispatch-service\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\online-taix\valuation-service\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\online-taix\service-zuul\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\online-taix\service-verification-code\src\main\resources" />
       <recent name="C:\Users\Administrator\Desktop\online-taix\service-sms\src\main\resources" />
-      <recent name="C:\Users\Administrator\Desktop\online-taix\internal-common\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.online.taix.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.online.taix.service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -397,10 +308,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CompletableFutureServiceImpl" />
       <item itemvalue="Spring Boot.ApiPassengerApplication" />
       <item itemvalue="Spring Boot.ServiceZuulApplication" />
       <item itemvalue="Spring Boot.ServiceSmsApplication" />
-      <item itemvalue="Application.CompletableFutureServiceImpl" />
       <item itemvalue="Spring Boot.ValuationServiceApplication" />
     </list>
     <recent_temporary>
@@ -432,7 +343,10 @@
       <workItem from="1613225074469" duration="2894000" />
       <workItem from="1613228062999" duration="110000" />
       <workItem from="1613272807971" duration="1210000" />
-      <workItem from="1613288955224" duration="6904000" />
+      <workItem from="1613288955224" duration="7421000" />
+      <workItem from="1613315908843" duration="239000" />
+      <workItem from="1613359432933" duration="812000" />
+      <workItem from="1613377168556" duration="6594000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613146304253</created>
@@ -476,18 +390,25 @@
       <option name="project" value="LOCAL" />
       <updated>1613228128874</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2.14.01 补充CompletableFuture，Async，支持多线程，异步回调测试案例。">
+      <created>1613315280763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613315280763</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54086000" />
+    <option name="totallyTimeSpent" value="62248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49625936" visible="true" weight="0.20735608" />
-      <window_info id="Structure" order="1" sideWeight="0.50374067" side_tool="true" weight="0.30916846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49435028" visible="true" weight="0.21162046" />
+      <window_info id="Structure" order="1" sideWeight="0.50564975" side_tool="true" weight="0.20948827" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -511,7 +432,7 @@
       <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.3861607" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32924107" />
       <window_info anchor="bottom" id="Tail" order="16" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.38058037" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.20982143" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -535,69 +456,10 @@
     <MESSAGE value="2.13.02" />
     <MESSAGE value="2.13.03 增加smsservice服务，增加token生成，下一次提交:网关token鉴权，补充业务功能。" />
     <MESSAGE value="2.13.04 网关token验证，鉴权待补充" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.13.04 网关token验证，鉴权待补充" />
+    <MESSAGE value="2.14.01 补充CompletableFuture，Async，支持多线程，异步回调测试案例。" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.14.01 补充CompletableFuture，Async，支持多线程，异步回调测试案例。" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/smsservice/AliNote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal-common/src/main/java/com/online/taix/smsservice/MessageData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="1004" column="13" selection-start-line="1004" selection-start-column="13" selection-end-line="1004" selection-end-column="13" />
-          <folding>
-            <element signature="e#44347#44348#0" expanded="true" />
-            <element signature="e#44395#44396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-sms/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-sms/src/main/resources/dao/AliMessageDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-sms/src/main/java/com/online/taix/dto/AliMessageTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-verification-code/src/main/java/com/online/taix/service/impl/VeriryCodeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -793,16 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -853,26 +705,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="245">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service.java" />
     <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/CompletableFutureService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -894,16 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/task/AsyncTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-sms/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -918,17 +741,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/ValuationServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/dto/LombokDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/CompletionStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="125" column="27" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/CompletableFuture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="2022" column="23" selection-start-line="2022" selection-start-column="8" selection-end-line="2022" selection-end-column="23" />
+        <state relative-caret-position="420">
+          <caret line="109" column="66" selection-start-line="109" selection-start-column="66" selection-end-line="109" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/task/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="490">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -938,21 +817,53 @@
     <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/service/impl/CompletableFutureServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="34" />
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/valuation-service/src/main/java/com/online/taix/ValuationServiceApplication.java">
+    <entry file="file://$PROJECT_DIR$/dispatch-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dispatch-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dispatch-service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dispatch-service/src/main/java/com/online/taix/DispatchServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="350">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

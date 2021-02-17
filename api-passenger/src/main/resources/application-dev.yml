@@ -1,0 +1,22 @@
+server:
+  port: 8020
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/online_taix?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      initial-size: 5 #连接池初始化大小
+      min-idle: 10 #最小空闲连接数
+      max-active: 20 #最大连接数
+mybatis:
+  mapper-locations: classpath:dao/*.xml  #mapper 扫描位置
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #sql日志输出
+jwt:
+  tokenHeader: Authorization #JWT存储的请求头
+  secret: online-taix-secret #JWT加解密使用的密钥
+  expiration: 3600 #604800 #JWT的超期限时间(60*60*24*7)
+  tokenHead: 'Bearer' #JWT负载中拿到开头

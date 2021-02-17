@@ -8,3 +8,8 @@
 
 <h4>完成派单服务:dispatch-service 定时任务Task
 <h5>司机抢单，派单引擎分配订单进入redis，key-value，map
+
+<h4>网关灰度发布 
+<h5>zuul + ribbon 根据用户权限(规则)，匹配服务版本(元数据)
+
+<h4>ribbon 自定义rule实现灰度发布(无网关)

@@ -2,6 +2,9 @@ spring:
   cloud:
     nacos:
       discovery:
+        #配置元数据
+        metadata:
+          version: v1
         server-addr: 127.0.0.1:8848
       config:
         server-addr: 127.0.0.1:8848

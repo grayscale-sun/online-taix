@@ -9,6 +9,7 @@
         <module name="service-verification-code" />
         <module name="api-passenger" />
         <module name="service-zuul" />
+        <module name="pay-service" />
         <module name="internal-common" />
         <module name="dispatch-service" />
         <module name="service-sms" />
@@ -21,6 +22,7 @@
       <module name="api-passenger" options="-parameters" />
       <module name="dispatch-service" options="-parameters" />
       <module name="internal-common" options="-parameters" />
+      <module name="pay-service" options="-parameters" />
       <module name="service-sms" options="-parameters" />
       <module name="service-verification-code" options="-parameters" />
       <module name="service-zuul" options="-parameters" />

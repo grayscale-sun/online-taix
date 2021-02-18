@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9995454a-2570-4b2b-8562-8c406261fc3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/online/taix/controller/TaixAdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-passenger/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-passenger/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/ServiceZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/ServiceZuulApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/ZuulConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/filter/TaixFilterFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-zuul/target/classes/com/online/taix/ServiceZuulApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-zuul/target/classes/com/online/taix/ServiceZuulApplication.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,14 +26,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/rule/NacosRule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+            <state relative-caret-position="408">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="469">
+                <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -120,7 +121,6 @@
         <option value="$PROJECT_DIR$/pay-service/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/pay-service/pom.xml" />
         <option value="$PROJECT_DIR$/pay-service/src/main/java/com/online/taix/PayServiceApplication.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/service-zuul/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/api-passenger/src/main/resources/bootstrap.yml" />
@@ -141,6 +141,7 @@
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/NacosRule.java" />
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/utils/RibbonUtil.java" />
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/rule/NacosRule.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -174,59 +175,6 @@
               <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
               <item name="online-taix" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taix" type="462c0819:PsiDirectoryNode" />
-              <item name="rule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="online-taix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-taix" type="462c0819:PsiDirectoryNode" />
-              <item name="service-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -249,7 +197,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/api-passenger/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-nacos-auto-grayscale-release-0.0.1.RELEASE" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -401,7 +349,8 @@
       <workItem from="1613359432933" duration="812000" />
       <workItem from="1613377168556" duration="6594000" />
       <workItem from="1613446126602" duration="15390000" />
-      <workItem from="1613532926841" duration="9409000" />
+      <workItem from="1613532926841" duration="9533000" />
+      <workItem from="1613645716728" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1613146304253</created>
@@ -452,17 +401,24 @@
       <option name="project" value="LOCAL" />
       <updated>1613315280763</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2.17.01 增加灰度发布，Web filter + 自定义Loadbalancer + 默认轮询算法">
+      <created>1613559908380</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613559908380</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87047000" />
+    <option name="totallyTimeSpent" value="87612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4935065" visible="true" weight="0.21588486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4935065" visible="true" weight="0.21801706" />
       <window_info id="Structure" order="1" sideWeight="0.5064935" side_tool="true" weight="0.21588486" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -487,7 +443,7 @@
       <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.3861607" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.32924107" />
       <window_info anchor="bottom" id="Tail" order="16" />
-      <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.23995535" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.24888393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -552,7 +508,8 @@
     <MESSAGE value="2.13.03 增加smsservice服务，增加token生成，下一次提交:网关token鉴权，补充业务功能。" />
     <MESSAGE value="2.13.04 网关token验证，鉴权待补充" />
     <MESSAGE value="2.14.01 补充CompletableFuture，Async，支持多线程，异步回调测试案例。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.14.01 补充CompletableFuture，Async，支持多线程，异步回调测试案例。" />
+    <MESSAGE value="2.17.01 增加灰度发布，Web filter + 自定义Loadbalancer + 默认轮询算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.17.01 增加灰度发布，Web filter + 自定义Loadbalancer + 默认轮询算法" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -589,16 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -801,18 +748,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/RibbonRuleConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/RibbonRuleConfig.java" />
     <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/NacosRuleConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -898,20 +834,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/MyRoundRobinRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/rule.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/config/MyRoundRobinRule.java" />
+    <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/rule.java" />
     <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/utils/RibbonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -994,11 +918,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service-zuul/src/main/java/com/online/taix/rule/NacosRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        <state relative-caret-position="408">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="469">
+            <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

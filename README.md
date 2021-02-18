@@ -13,3 +13,5 @@
 <h5>zuul + ribbon 根据用户权限(规则)，匹配服务版本(元数据)
 
 <h4>ribbon 自定义rule实现灰度发布(无网关)
+
+<h4>nacos灰度发布由spring-boot-nacos-auto-grayscale-release-0.0.1.RELEASE完成，通过注解@EnableGrayscaleRelease自动注入。

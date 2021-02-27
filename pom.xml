@@ -18,6 +18,10 @@
         <module>valuation-service</module>
         <module>dispatch-service</module>
         <module>pay-service</module>
+        <module>disruptor</module>
+        <module>disruptor</module>
+        <module>disruptor</module>
+        <module>service-disruptor</module>
     </modules>
 
     <properties>

@@ -12,3 +12,4 @@ zuul:
     auth:
       path: /api-passenger/**
       service-id: api-passenger
+  sensitive-headers:

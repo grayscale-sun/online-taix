@@ -15,3 +15,7 @@
 <h4>ribbon 自定义rule实现灰度发布(无网关)
 
 <h4>nacos灰度发布由spring-boot-nacos-auto-grayscale-release-0.0.1.RELEASE完成，通过注解@EnableGrayscaleRelease自动注入。
+
+<h4>disruptor 最快单线程mq
+
+<h4>activemq

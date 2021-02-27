@@ -9,12 +9,12 @@
         <module name="service-verification-code" />
         <module name="api-passenger" />
         <module name="service-zuul" />
-        <module name="service-disruptor" />
+        <module name="valuation-service" />
         <module name="pay-service" />
         <module name="internal-common" />
         <module name="dispatch-service" />
         <module name="service-sms" />
-        <module name="valuation-service" />
+        <module name="service-disruptor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
